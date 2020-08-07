@@ -1,1 +1,1 @@
-Android OpenGLES off-screen mode rendering
+Android OpenGLES off-screen mode rendering with native C++
