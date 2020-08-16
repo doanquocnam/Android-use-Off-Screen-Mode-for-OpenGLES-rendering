@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
     void onCallbackOpenGL()
     {
         //Log.i(getClass().getName(), "onCallbackOpenGL");
-        mainImageView.invalidate();
         linearMainLayout.post(new Runnable() {
             @Override
             public void run() {
